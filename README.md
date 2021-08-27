@@ -9,6 +9,18 @@ The purpose of this project workflow is to generate a list of GSINs after every 
 to:	Doug Dubois - QD1F <doug.dubois@gsa.gov>,
 cc:	Clayton Schoenbine - QD1F <clayton.schoenbine@gsa.gov>
 	Brennan Conaway - QV0ED <brennan.conaway@gsa.gov>
+
+
+Hi Doug,
+
+Please find attached the Green Icon list based off the latest XSB catalog run.
+
+Cc'ing Clayton as he used to facilitate this execution for us.
+
+Please advise once complete.
+
+Thanks!
+
 ```
 
 
