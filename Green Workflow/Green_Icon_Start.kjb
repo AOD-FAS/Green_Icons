@@ -312,7 +312,7 @@
       <type>TRANS</type>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C&#x3a;&#x5c;Users&#x5c;jeffreyjwellen&#x5c;Desktop&#x5c;Projects&#x5c;Sustainability&#x5c;Green Workflow&#x5c;Get_Green_Data.ktr</filename>
+      <filename>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;Get_Green_Data.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -364,6 +364,11 @@
           <variable_value>&#x5b;ADV&#x5d;.&#x5b;Advantage_XSB_analyzed_2021_04&#x5d;</variable_value>
           <variable_type>ROOT_JOB</variable_type>
         </field>
+        <field>
+          <variable_name>UserName</variable_name>
+          <variable_value>jeffreyjwellen</variable_value>
+          <variable_type>ROOT_JOB</variable_type>
+        </field>
       </fields>
       <parallel>N</parallel>
       <draw>Y</draw>
@@ -377,7 +382,7 @@
       <type>TRANS</type>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C&#x3a;&#x5c;Users&#x5c;jeffreyjwellen&#x5c;Desktop&#x5c;Projects&#x5c;Sustainability&#x5c;Green Workflow&#x5c;Get_Data_WS.ktr</filename>
+      <filename>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;Get_Data_WS.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -412,7 +417,7 @@
       <type>TRANS</type>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C&#x3a;&#x5c;Users&#x5c;jeffreyjwellen&#x5c;Desktop&#x5c;Projects&#x5c;Sustainability&#x5c;Green Workflow&#x5c;Get_PICS.ktr</filename>
+      <filename>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;Get_PICS.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
