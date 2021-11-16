@@ -443,8 +443,8 @@
     <access>Native</access>
     <database>PPL</database>
     <port>-1</port>
-    <username/>
-    <password>Encrypted </password>
+    <username>fasaod</username>
+    <password>Encrypted 414f46d7bcdda90e96d38bbb1aa734db82a6d9</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -452,7 +452,7 @@
       <attribute><code>FORCE_IDENTIFIERS_TO_LOWERCASE</code><attribute>N</attribute></attribute>
       <attribute><code>FORCE_IDENTIFIERS_TO_UPPERCASE</code><attribute>N</attribute></attribute>
       <attribute><code>IS_CLUSTERED</code><attribute>N</attribute></attribute>
-      <attribute><code>MSSQLUseIntegratedSecurity</code><attribute>true</attribute></attribute>
+      <attribute><code>MSSQLUseIntegratedSecurity</code><attribute>false</attribute></attribute>
       <attribute><code>MSSQL_DOUBLE_DECIMAL_SEPARATOR</code><attribute>N</attribute></attribute>
       <attribute><code>PORT_NUMBER</code><attribute>-1</attribute></attribute>
       <attribute><code>PRESERVE_RESERVED_WORD_CASE</code><attribute>Y</attribute></attribute>
